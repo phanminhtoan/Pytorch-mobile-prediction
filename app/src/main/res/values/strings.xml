@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dự đoán ảnh </string>
+    <string name="action_settings">Linh </string>
+    <string name="title_activity_result">Dự đoán của tui </string>
+</resources>
